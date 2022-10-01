@@ -1,2 +1,14 @@
-# Made-For-HacktoberFest-2022
-Contribute for Hacktoberfest 2022
+#  Hacktoberfest 2022 🔥
+![image](https://user-images.githubusercontent.com/70385488/192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6.png)
+
+## ❤ HOW TO CONTRIBUTE
+
+1. STAR THIS REPO !! OR I WILL NOT MERGE YOUR FILES
+
+2. SIGNUP / CREATE ACC IN HACKTOBER FEST
+
+3. FORK THIS REPO
+
+4. ADD FILE + CREATE PULL REQ
+
+5. I WILL ACCEPT AS FAST AS POSSIBLE
