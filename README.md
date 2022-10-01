@@ -24,3 +24,7 @@
 
 7. I WILL ACCEPT AS FAST AS POSSIBLE
 
+## 💥 NOTE
+
+#### ⚠ If u want to add another programming language create new folder and add your file to new folder.
+
