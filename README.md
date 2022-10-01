@@ -9,6 +9,18 @@
 
 3. FORK THIS REPO
 
-4. ADD FILE + CREATE PULL REQ
+4. ADD YOUR FILE IN THE RESPECTIVE PROGRAMMING LANGUAGE FOLDER 
 
-5. I WILL ACCEPT AS FAST AS POSSIBLE
+5. ADD YOUR NAME TO THE CONTRIBUTORS.md FILE
+     Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+     ```markdown
+   #### Name: [YOUR NAME]
+   - Place: City, State, Country
+   - Bio: Who are you?
+   - GitHub: [GitHub account name](GitHub link)
+
+6. CREATE PULL REQ
+
+7. I WILL ACCEPT AS FAST AS POSSIBLE
+
